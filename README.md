@@ -5,6 +5,8 @@ All my notebooks are currently in the Lecture_Notes folder. I'm still in the pro
 
 Here it is: https://github.com/itaeh-hue/Math-2024-25-Winter/tree/main/Lecture_Notes/
 
+I moved everything there to make sure I have all the exercises (almost, there are a new minor additions to be made). Apart from that, I wasn't satisfied with the quality of my notes and exercises, so, for most of my work, I either rectified my notebooks or did exercises from scratch. Additionally, form the beginning of the semester, I've been making my own theorical notes in Obsidian (an awesome open-source utility for creating and editing markdown notes) even for the topoics that did not require that (Linear Algebra), getting the information from books and articles I found in the Internet. Otherwise I just can't understand, I need to process and write something on my own. And I added them prior to exercise solutions as well. 
+
 # Math-2024-25-Winter
 
 ### Working Environment Configuration
